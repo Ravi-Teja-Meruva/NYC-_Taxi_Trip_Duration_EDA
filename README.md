@@ -19,6 +19,7 @@ We collect data from different systems, like:
 - Trip
 - Traffic and Geographic Information
 - Weather
+
 So the data points are:
 
 - id 
